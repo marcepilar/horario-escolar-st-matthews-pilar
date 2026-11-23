@@ -1,5 +1,7 @@
 {
-  "version": "V1.0.0",
-  "app": "Horario Escolar · St. Matthew’s College · Pilar · DEMO NO OFICIAL",
-  "updated": "2026-11-23"
+  "app": "Horario Escolar — St. Matthew’s College (DEMO NO OFICIAL)",
+  "version": "V1.0.1",
+  "cycle_year": 2027,
+  "status": "PRUEBA",
+  "notes": "Unificación visual bajo el banner con North Hills V1.0.3, sin modificar horarios ficticios ni identidad de St. Matthew’s."
 }

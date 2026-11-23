@@ -1,13 +1,11 @@
-# Horario Escolar — St. Matthew’s College (Pilar)
+# Horario Escolar — St. Matthew’s College · V1.0.1 DE PRUEBA
 
-**MARK-TECH SOFTWARE · V1.0.0 — DEMO COMERCIAL NO OFICIAL**
+Base: DEMO St. Matthew’s V1.0.0. Referencias visuales: North Hills V1.0.3 y Chesterton V1.4.42.
 
-PWA demostrativa independiente. **No existe vinculación oficial con el colegio** y **todos los horarios son ficticios**.
+Cambios: título a la izquierda y año 2027 a la derecha, sin cápsula; franja de turno con «MODO DEMO» sin repetir el curso; «· Hoy» junto al nombre del día sin reemplazar el total de clases; actualización local al volver de segundo plano y mediante intervalos. Botón de tema y diseño del banner conservados.
 
-## Publicación GitHub Pages
-1. Repositorio público `horario-escolar-st-matthews-pilar` en la cuenta `marcepilar`.
-2. Subir estos archivos **directamente en la raíz** de la rama `main`.
-3. En `Settings → Pages → Build and deployment` elegir `Deploy from a branch`, rama `main`, carpeta `/ (root)` y guardar.
-4. La URL prevista será: `https://marcepilar.github.io/horario-escolar-st-matthews-pilar/`.
+Las 12 combinaciones de curso 1.º–6.º A/B, los horarios ficticios, la advertencia de demostración, los íconos y la identidad gráfica no se modifican. No son horarios oficiales de la institución.
 
-El repositorio público expone los archivos de esta DEMO. Los materiales gráficos provienen de una imagen facilitada como referencia; para explotación institucional oficial debe solicitarse la identidad visual autorizada.
+Archivos: index.html, manifest.webmanifest, version.json, service-worker.js, todos los íconos y recursos originales, HTML autónomo de prueba y capturas.
+
+Versión de prueba: no reemplazar V1.0.0 publicada ni marcar estable sin la aprobación del usuario.

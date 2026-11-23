@@ -1,0 +1,77 @@
+{
+  "mode": "Chromium: carga de HTML autónomo sin navegación de red",
+  "viewports": {
+    "320": {
+      "title": "Horario Escolar",
+      "year": "2027",
+      "yearRight": 310,
+      "titleRight": 137.59375,
+      "yearLeft": 275.375,
+      "headerSameRow": true,
+      "noHeaderOverlap": true,
+      "docScrollWidth": 320,
+      "bannerWidth": 302,
+      "bannerRight": 311,
+      "bannerLeft": 9,
+      "label": "Turno mañana\nMODO DEMO",
+      "tagCount": 5,
+      "appVersion": "V1.0.1",
+      "subjects": "Prácticas del Lenguaje · +5 más",
+      "course": "3.º A",
+      "dayPill": "6 clases",
+      "logoLoaded": true
+    },
+    "360": {
+      "title": "Horario Escolar",
+      "year": "2027",
+      "yearRight": 350,
+      "titleRight": 150.203125,
+      "yearLeft": 312.625,
+      "headerSameRow": true,
+      "noHeaderOverlap": true,
+      "docScrollWidth": 360,
+      "bannerWidth": 342,
+      "bannerRight": 351,
+      "bannerLeft": 9,
+      "label": "Turno mañana\nMODO DEMO",
+      "tagCount": 5,
+      "appVersion": "V1.0.1",
+      "subjects": "Prácticas del Lenguaje · +5 más",
+      "course": "3.º A",
+      "dayPill": "6 clases",
+      "logoLoaded": true
+    },
+    "412": {
+      "title": "Horario Escolar",
+      "year": "2027",
+      "yearRight": 402,
+      "titleRight": 170.59375,
+      "yearLeft": 359.21875,
+      "headerSameRow": true,
+      "noHeaderOverlap": true,
+      "docScrollWidth": 412,
+      "bannerWidth": 394,
+      "bannerRight": 403,
+      "bannerLeft": 9,
+      "label": "Turno mañana\nMODO DEMO",
+      "tagCount": 5,
+      "appVersion": "V1.0.1",
+      "subjects": "Prácticas del Lenguaje · +5 más",
+      "course": "3.º A",
+      "dayPill": "6 clases",
+      "logoLoaded": true
+    }
+  },
+  "errors": [],
+  "console_errors": [],
+  "tests": {
+    "today_switch_and_weekend": true,
+    "course_4B_switch": true,
+    "details_classes_open": true,
+    "storage_stub_after_reinitialize": true,
+    "subject_preview_changed": [
+      "Prácticas del Lenguaje · +5 más",
+      "Física · Literatura · Inglés · +2 más"
+    ]
+  }
+}

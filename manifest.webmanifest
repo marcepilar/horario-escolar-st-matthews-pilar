@@ -1,12 +1,12 @@
 {
   "id": "./",
-  "name": "Horario Escolar · St. Matthew’s College — Pilar (DEMO NO OFICIAL)",
-  "short_name": "St Matthew’s DEMO",
-  "description": "Demostración comercial independiente y NO OFICIAL de St. Matthew’s College, sede Pilar. Horarios ficticios.",
+  "name": "Horario Escolar — St. Matthew’s College (DEMO)",
+  "short_name": "Horario Escolar",
+  "description": "Demostración no oficial con horarios ficticios para St. Matthew’s College.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#5a0c19",
+  "background_color": "#071122",
   "theme_color": "#071122",
   "lang": "es-AR",
   "icons": [

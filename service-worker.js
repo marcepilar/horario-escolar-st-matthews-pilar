@@ -1,6 +1,6 @@
-/* Horario Escolar St. Matthew’s DEMO V1.0.1 */
+/* Horario Escolar St. Matthew’s DEMO V1.0.2 */
 const PREFIX='horario-escolar-st-matthews-v';
-const CACHE=PREFIX+'1.0.1';
+const CACHE=PREFIX+'1.0.2';
 const CORE=['./','./index.html','./manifest.webmanifest','./version.json',
   './favicon-48.png','./icon-192.png','./icon-512.png','./icon-maskable-512.png',
   './apple-touch-icon.png','./escudo-st-matthews.png','./logotipo-st-matthews.png','./qr-horario.png'];

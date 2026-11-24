@@ -1,11 +1,11 @@
-# Horario Escolar — St. Matthew’s College · V1.0.1 DE PRUEBA
+# St. Matthew’s College · Horario Escolar V1.0.2 DE PRUEBA
 
-Base: DEMO St. Matthew’s V1.0.0. Referencias visuales: North Hills V1.0.3 y Chesterton V1.4.42.
+Base: V1.0.1. Se conservaron logotipo, íconos, cursos, materias, horarios y año lectivo.
 
-Cambios: título a la izquierda y año 2027 a la derecha, sin cápsula; franja de turno con «MODO DEMO» sin repetir el curso; «· Hoy» junto al nombre del día sin reemplazar el total de clases; actualización local al volver de segundo plano y mediante intervalos. Botón de tema y diseño del banner conservados.
+**IDIOMAS:** Español, English, Português, Français, Deutsch e Italiano.
 
-Las 12 combinaciones de curso 1.º–6.º A/B, los horarios ficticios, la advertencia de demostración, los íconos y la identidad gráfica no se modifican. No son horarios oficiales de la institución.
+**Publicación:** extraer el ZIP en la RAÍZ del repositorio GitHub Pages correspondiente, reemplazando los archivos existentes, conservando la URL del proyecto. No publicar hasta revisar la PWA en un móvil.
 
-Archivos: index.html, manifest.webmanifest, version.json, service-worker.js, todos los íconos y recursos originales, HTML autónomo de prueba y capturas.
+**Pruebas:** ver INFORME_PRUEBAS.txt.
 
-Versión de prueba: no reemplazar V1.0.0 publicada ni marcar estable sin la aprobación del usuario.
+**Versión:** V1.0.2 PRUEBA.
